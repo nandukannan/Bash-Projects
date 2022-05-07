@@ -1,6 +1,6 @@
 
 
-1 Project 
+# Project 1
 # Book_management_application 
 Aplication for keeping the book records done in shell scripting
 Three Main options are given in the program
@@ -11,7 +11,7 @@ loops concepts like for loop,while loop is used and array conceptions is used fo
 
 
 
-2 Project
+# Project 2
 # Phone_directory
 Project on keeping phone records done in shell scripting 
 Bash Program on keeping the records of the person. like example name and the phone number.
